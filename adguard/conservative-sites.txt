@@ -1,0 +1,62 @@
+! ------------------------------------[UPDATE]--------------------------------------
+! Title: Blocklist - Conservative Sites List (adguard)
+! -------------------------------------[INFO]---------------------------------------
+! Conservative Sites list
+! ------------------------------------[FILTERS]-------------------------------------
+||1792exchange.com^
+||breitbart.com^
+||conservativehome.com^
+||conservativeinseattle.com^
+||constitutionparty.com^
+||dailycaller.com^
+||dailymail.co.uk^
+||dailysignal.com^
+||defdist.org^
+||eagleforum.org^
+||foxnews.com^
+||freebeacon.com^
+||hegetsus.com^
+||infowars.com^
+||jbs.org^
+||jeremiahfilms.com^
+||komonews.com^
+||lewrockwell.com^
+||louderwithcrowder.com^
+||momsforliberty.org^
+||mrc.org^
+||mspolicy.org^
+||mynorthwest.com^
+||nas.org^
+||nationalcenter.org^
+||nationalreview.com^
+||naturalnews.com^
+||newsmax.com^
+||nypost.com^
+||oann.com^
+||pacificresearch.org^
+||personnelpolicyops.org^
+||phc.edu^
+||pjmedia.com^
+||publicinterestlegal.org^
+||recoveryforamerica.org^
+||redstate.com^
+||sbaprolife.org^
+||teapartypatriots.org^
+||teneonetwork.com^
+||tenthamendmentcenter.com^
+||texaspolicy.com^
+||theblaze.com^
+||thedailywire.com^
+||theepochtimes.com^
+||thefederalist.com^
+||thegatewaypundit.com^
+||theseattleconservative.com^
+||townhall.com^
+||tpusa.com^
+||truthsocial.com^
+||twitchy.com^
+||washingtonexaminer.com^
+||washingtontimes.com^
+||westernjournal.com^
+||wnd.com^
+||yaf.org^

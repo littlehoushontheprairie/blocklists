@@ -1,0 +1,75 @@
+! ------------------------------------[UPDATE]--------------------------------------
+! Title: Blocklist - Hate Group Sites List (adguard)
+! -------------------------------------[INFO]---------------------------------------
+! Hate Group Sites list
+! Initial List Provided By: 
+! https://en.wikipedia.org/wiki/List_of_organizations_designated_by_the_Southern_Poverty_Law_Center_as_hate_groups
+! ------------------------------------[FILTERS]-------------------------------------
+||altright.com^
+||americanidentitymovement.com^
+||americannaziparty.com^
+||amfreeparty.org^
+||amren.com^
+||antelopehillpublishing.com^
+||antepithesi.gr^
+||arizonaborderrecon.org^
+||arktos.com^
+||aryanfolk.com^
+||barnesreview.org^
+||bloodandhonourworldwide.co.uk^
+||churchofisrael.org^
+||conservative-headlines.org^
+||constitutionparty.com^
+||creativityalliance.com^
+||creativitymovement.net^
+||cspoa.org^
+||dailystormer.in^
+||defdist.org^
+||eagleforum.org^
+||empirewashitaw.org^
+||embassyofheaven.com^
+||freedom-angels.org^
+||forzanuova1997.it^
+||gcnlive.com^
+||gunowners.com^
+||gunowners.org^
+||hammerskins.net^
+||identityevropa.com^
+||imperialklansofamerica.com^
+||infowars.com^
+||jbs.org^
+||jeremiahfilms.com^
+||keystone-united.com^
+||kingidentity.com^
+||kirksvilletoday.com^
+||leagueofthesouth.com^
+||lewrockwell.com^
+||libertyhangout.org^
+||lwkkkk.com^
+||missourimilitia.com^
+||momsforliberty.org^
+||moorishsciencetempleofamerica.org^
+||natall.com^
+||naturalnews.com^
+||nc-f.org^
+||nicholasjfuentes.com^
+||nsm88.org^
+||oathkeepers.org^
+||pacificaforum.org^
+||patriotfront.us^
+||redice.tv^
+||sadisticsoulsmc.org^
+||stormfront.org^
+||superhappyfunamerica.com^
+||tenthamendmentcenter.com^
+||theoccidentalobserver.net^
+||thepoliticalcesspool.org^
+||therightstuff.biz^
+||theuka.us^
+||toqonline.com^
+||vanguardnewsnetwork.com^
+||vdare.com^
+||washsummit.com^
+||white-power.org^
+||wnd.com^
+||ycpt.org^
