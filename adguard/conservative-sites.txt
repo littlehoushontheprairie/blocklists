@@ -5,6 +5,7 @@
 ! ------------------------------------[FILTERS]-------------------------------------
 ||1792exchange.com^
 ||3abn.org^
+||45office.com^
 ||acallforamericanrenewal.com^
 ||aclj.org^
 ||adflegal.org^
@@ -25,6 +26,7 @@
 ||americarenewing.com^
 ||americasvoice.news^
 ||amfamproject.org^
+||blazetv.com^
 ||bloggingtories.ca^
 ||breitbart.com^
 ||californiafamily.org^
@@ -36,6 +38,7 @@
 ||cbn.com^
 ||cei.org^
 ||ceousa.org^
+||charliekirk.com^
 ||cis.org^
 ||claremont.org^
 ||clayandbuck.com^
@@ -43,6 +46,7 @@
 ||conservative.ca^
 ||conservativehome.com^
 ||conservativeinseattle.com^
+||conservativereview.com^
 ||constitutionparty.com^
 ||cpi.org^
 ||c-fam.org^
@@ -52,10 +56,13 @@
 ||dailywire.com^
 ||defdist.org^
 ||dfipolicy.org^
+||donaldjtrump.com^
+||donjr.com^
 ||eagleforum.org^
 ||edmontonsun.com^
 ||encounterbooks.com^
 ||eppc.org^
+||erictrumpfoundation.com^
 ||ewtn.com^
 ||express.co.uk^
 ||familypolicyalliance.com^
@@ -174,6 +181,7 @@
 ||townhall.com^
 ||tpusa.com^
 ||triblive.com^
+||trump.com^
 ||truthsocial.com^
 ||twitchy.com^
 ||unionleader.com^
