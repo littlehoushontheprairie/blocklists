@@ -26,6 +26,7 @@
 ||americarenewing.com^
 ||americasvoice.news^
 ||amfamproject.org^
+||amgreatness.com^
 ||blazetv.com^
 ||bloggingtories.ca^
 ||breitbart.com^
@@ -37,6 +38,7 @@
 ||catholicregister.org^
 ||cbn.com^
 ||cei.org^
+||centerforamericangreatness.com^
 ||ceousa.org^
 ||charliekirk.com^
 ||cis.org^
@@ -95,6 +97,7 @@
 ||jamesmadison.org^
 ||jbs.org^
 ||jeremiahfilms.com^
+||jordanbpeterson.com^
 ||kelownadailycourier.ca^
 ||komonews.com^
 ||leadershipinstitute.org^
@@ -169,9 +172,11 @@
 ||thegatewaypundit.com^
 ||theiwh.org^
 ||thejewishvoice.com^
+||themattwalshblog.com^
 ||thenewsforum.ca^
 ||therightbrothers.com^
 ||theseattleconservative.com^
+||thethinkingconservative.com^
 ||thestar.com^
 ||thesundaytimes.co.uk^
 ||thesun.co.uk^
