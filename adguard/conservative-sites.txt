@@ -196,6 +196,7 @@
 ||weeklystandard.com^
 ||westernjournal.com^
 ||winnipegsun.com^
+||winred.com^
 ||wnd.com^
 ||wwcr.com^
 ||yaf.org^
