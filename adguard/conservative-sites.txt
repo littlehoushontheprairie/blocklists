@@ -164,6 +164,7 @@
 ||teneonetwork.com^
 ||tenthamendmentcenter.com^
 ||texaspolicy.com^
+||the-sun.com^
 ||theamericanconservative.com^
 ||theblaze.com^
 ||thedailywire.com^
