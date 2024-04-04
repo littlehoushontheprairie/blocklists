@@ -56,6 +56,7 @@
 ||dailymail.co.uk^
 ||dailysignal.com^
 ||dailywire.com^
+||daterightstuff.com^
 ||defdist.org^
 ||dfipolicy.org^
 ||donaldjtrump.com^
