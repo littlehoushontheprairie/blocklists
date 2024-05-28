@@ -102,6 +102,7 @@
 ||jbs.org^
 ||jeremiahfilms.com^
 ||jordanbpeterson.com^
+||judicialwatch.org^
 ||kelownadailycourier.ca^
 ||komonews.com^
 ||leadershipinstitute.org^
