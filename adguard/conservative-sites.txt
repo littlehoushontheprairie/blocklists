@@ -197,6 +197,7 @@
 ||triblive.com^
 ||trump.com^
 ||truthsocial.com^
+||tuttletwins.com^
 ||twitchy.com^
 ||twitter.com^
 ||unionleader.com^
@@ -210,5 +211,4 @@
 ||wnd.com^
 ||wwcr.com^
 ||x.com^
-
 ||yaf.org^
